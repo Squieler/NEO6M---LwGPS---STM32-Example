@@ -13,5 +13,3 @@ In the example project, USART1 peripheral configured as:
 The rest is default. If you encounter with any problems please check the example project.
 
 USART2 peripheral is configured to transmit messages to a computer.
-
-You can find the example project in the given ZIP file.
